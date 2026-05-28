@@ -1,5 +1,5 @@
 # demo-repo
 This is my first repository
 <br>
-Author_ Wajid Ali
+Author_ Wajid Alee
 
